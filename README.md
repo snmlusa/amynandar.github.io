@@ -12,7 +12,7 @@
     <header class="hero">
       <img class="cover" src="assets/cover.jpg" alt="Album cover — replace assets/cover.jpg" />
       <div class="meta">
-        <h1>Mystery<h1>
+        <h2>Mystery<h2>
         <p class="tagline">Fans page မှာ နွေးထွေးစွာကြိုဆိုပါ၏ </p>
         <div class="actions">
           <a class="btn" href="#player">Open Player</a>
